@@ -12,4 +12,11 @@
 
 - multi threading: modify progress bar with async
 
-![multithreading](https://www.youtube.com/watch?v=snkDYT1Qz6g)
+![async await]https://www.youtube.com/watch?v=NX92U42eCfc&t=16s&pp=ygUPd3BmIGFzeW5jIGF3YWl0
+
+---
+
+- next projects
+    - CommunityToolkit.Mvvm (no more manual relaycommand): https://www.youtube.com/watch?v=KVr7_QtlcmI&pp=ygUad3BmIGNvbW11bml0eSB0b29sa2l0IG12dm0%3D
+    - Generic Host: https://www.youtube.com/watch?v=dgJ1nS2CLpQ&list=PLA8ZIAm2I03hS41Fy4vFpRw8AdYNBXmNm&index=9&pp=iAQB
+    - xUnit (unit testing): https://www.youtube.com/watch?v=8Tb61_EX3DM&t=148s
